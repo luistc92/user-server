@@ -1,6 +1,7 @@
 import {faker} from 'https://esm.sh/@faker-js/faker@7.3.0'
-const url = 'http://165.232.128.198:3001'
+//const url = 'http://165.232.128.198:3001'
 //const url = 'http://localhost:3000'
+const url = ''
 
 document.getElementById('addUser').addEventListener('click', addUser);
 document.getElementById('addUsers').addEventListener('click', addUsers);
