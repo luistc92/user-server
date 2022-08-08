@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "Marco",
+      "lastName": "Stehr",
+      "email": "Marco87@gmail.com",
+      "address": "47893 Casimir Highway Suite 566"
+    },
+    {
+      "firstName": "Felicia",
+      "lastName": "Bashirian",
+      "email": "Felicia_Bashirian9@gmail.com",
+      "address": "0718 Towne Roads Suite 935"
+    },
+    {
+      "firstName": "Darrick",
+      "lastName": "Haley",
+      "email": "Darrick94@yahoo.com",
+      "address": "286 Stuart Mountain Apt. 957"
+    },
+    {
+      "firstName": "Molly",
+      "lastName": "Witting",
+      "email": "Molly80@hotmail.com",
+      "address": "4740 Kertzmann Bridge Apt. 533"
+    }
+  ]
+}
